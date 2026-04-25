@@ -1,0 +1,43 @@
+[logistic_regression]
+              precision    recall  f1-score   support
+
+           0     0.9025    0.7246    0.8039      1035
+           1     0.5069    0.7834    0.6155       374
+
+    accuracy                         0.7402      1409
+   macro avg     0.7047    0.7540    0.7097      1409
+weighted avg     0.7975    0.7402    0.7539      1409
+
+
+[random_forest]
+              precision    recall  f1-score   support
+
+           0     0.8353    0.8918    0.8626      1035
+           1     0.6316    0.5134    0.5664       374
+
+    accuracy                         0.7913      1409
+   macro avg     0.7334    0.7026    0.7145      1409
+weighted avg     0.7812    0.7913    0.7840      1409
+
+
+[xgboost]
+              precision    recall  f1-score   support
+
+           0     0.9052    0.7469    0.8184      1035
+           1     0.5279    0.7834    0.6308       374
+
+    accuracy                         0.7566      1409
+   macro avg     0.7165    0.7651    0.7246      1409
+weighted avg     0.8050    0.7566    0.7686      1409
+
+
+[lightgbm]
+              precision    recall  f1-score   support
+
+           0     0.8816    0.7700    0.8221      1035
+           1     0.5287    0.7139    0.6075       374
+
+    accuracy                         0.7551      1409
+   macro avg     0.7052    0.7420    0.7148      1409
+weighted avg     0.7880    0.7551    0.7651      1409
+
