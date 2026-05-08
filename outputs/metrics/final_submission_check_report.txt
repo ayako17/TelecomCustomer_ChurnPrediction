@@ -89,7 +89,7 @@ Final Submission Consistency Check
 [OK] requirements.txt has version specifiers on all package lines
 
 [PYCACHE]
-[WARNING] found __pycache__ dirs: 1
+[WARNING] found __pycache__ dirs: 962
 
 [IPYNB_CHECKPOINTS]
 [OK] no .ipynb_checkpoints directory found
